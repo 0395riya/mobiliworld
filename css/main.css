@@ -1,0 +1,77 @@
+
+.text-red {
+    color: red;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.font-60 {
+    font-size: 60px
+}
+
+.bg-aliceblue {
+    background-color: #fafaf9;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.heading-about {
+
+    font-family: Microsoft Sans serif;
+    font-weight: 800;
+}
+p{
+    font-family: Trebuchet MS;
+}
+.tahoma{
+    font-family: Tahoma;
+}
+.tellbold{
+      font-weight: 700;
+    font-size: 3rem;
+}
+.bold-700{
+    font-weight: 700
+}
+.pc{
+    color:#74788d;
+}
+.font3rem{
+    font-size: 3rem;
+}
+.font2rem{
+    font-size: 2rem;
+}
+.bebebe{
+    color: #bebebe;
+}
+.text-left{
+    text-align: end;
+}
+.icon{
+    text-align: end;
+    font-size: 3rem;
+    color:red;
+}
+.borderpc{
+      border: 10px solid #f5f5f5;
+    text-align: center;
+    width: 12rem;
+}
+
+.vertical{
+    border-left: 1px solid rgb(182, 179, 179);
+            height: 80px;
+            position:absolute;
+            left: 50%;
+            margin: 0px;
+            padding: 0px;
+            padding-top: 20px;
+}
+
+/* @charset "utf-8"; */
+/* CSS Document */
